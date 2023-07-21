@@ -25,6 +25,7 @@ h2 {
   grid-template-columns: 1fr auto 1fr;
   grid-template-rows: 1.5rem 0;
   grid-gap: 1rem;
+
   color: rgb(2, 32, 81);
 }
 
@@ -52,6 +53,7 @@ h2:after {
 }
   
 .logo {
+  padding-bottom: 1rem;
   width: 20rem;
   height: auto;
   max-height: 100%;
