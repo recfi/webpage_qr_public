@@ -114,6 +114,7 @@ footer {
 }
 
 .dealer-services-container {
+  color: rgb(2, 32, 81);
   text-decoration: none;
   padding-right: 1rem;
 }
@@ -136,4 +137,3 @@ footer {
       font-size: 20px;
     }
   }
-
